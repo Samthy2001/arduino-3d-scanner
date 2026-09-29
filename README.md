@@ -146,22 +146,6 @@ The developed system successfully captures object measurements from multiple ang
 
 ---
 
-# Project Images
-
-Add project images inside the `images` folder:
-
-```
-images/
-
-├── banner.png
-├── system-architecture.png
-├── prototype.jpg
-├── circuit.jpg
-└── scanned-model.png
-```
-
----
-
 # Challenges
 
 - Improving distance measurement accuracy.
