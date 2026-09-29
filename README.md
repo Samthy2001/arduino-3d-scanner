@@ -181,7 +181,18 @@ The developed system successfully captures object measurements from multiple ang
 - 3D Model Processing
 
 ---
-
+# Repository Structure
+arduino-3d-scanner
+│
+├── README.md
+├── LICENSE
+│
+├── images
+│ ├── banner.png
+│ └── system-architecture.png
+│
+└── src
+└── Arduino source code
 # Author
 
 **Samthy Shuaib**
