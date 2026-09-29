@@ -10,6 +10,12 @@ The **Arduino 3D Scanner** is a low-cost embedded system project developed to ca
 The system uses an **Arduino Nano** as the main controller, a **NEMA 17 stepper motor** for precise rotational movement, and an **IR distance sensor** to collect surface measurements. The captured scanning data is stored on an SD card and transferred to a laptop for generating and visualizing the 3D model.
 
 This project demonstrates the integration of **embedded systems, sensor data acquisition, motor control, and mechanical design**.
+## Project Status
+
+Completed Prototype
+
+The system was developed and tested as a mechatronics engineering project. 
+The prototype successfully demonstrates object scanning, sensor-based distance measurement, data logging, and 3D model generation.
 
 ---
 
