@@ -35,8 +35,9 @@ The scanning process follows these stages:
 4. The Arduino Nano processes and collects the sensor data.
 5. The scanning data is stored on an SD card.
 6. The generated scan file is transferred to a laptop for 3D model processing.
+<img width="1536" height="1024" alt="System Architecture" src="https://github.com/user-attachments/assets/6290f663-e10c-4132-82f8-eea29528b4c7" />
 
-![System Architecture](images/system-architecture.png)
+
 
 ---
 
