@@ -1,6 +1,7 @@
 # Arduino 3D Scanner
 
-![Project Banner](images/banner.png)
+<img width="2048" height="768" alt="banner" src="https://github.com/user-attachments/assets/3dacbd39-7c91-4839-977c-f12c97c24cd3" />
+
 
 ## Overview
 
